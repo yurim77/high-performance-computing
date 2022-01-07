@@ -15,14 +15,10 @@
 $wget https://github.com/ispc/ispc/releases/download/v1.16.1/ispc-v1.16.1-linux.tar.gz
 ```
 
----
-
 ### Files
 * main.cpp : 메인 함수가 정의되어있는 c++ 코드입니다.
 * minmax.ispc : 배열의 최댓값과 최솟값을 찾는 함수가 정의되어있는 ispc 코드입니다.
 * Makefile : 빌드 명령어를 포함하는 파일입니다.
-
----
 
 ### Usage
 * 바이너리 파일 만들기 / 삭제하기

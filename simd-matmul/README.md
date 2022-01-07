@@ -1,17 +1,14 @@
 ## **SIMD Matrix Multiplication**
----
+
 ### Description
 * 4x4 행렬의 곱셈을 벡터 방식과 스칼라 방식을 사용해 구현한 프로그램입니다.
 * 벡터 방식과 스칼라 방식의 연산 결과와 속도를 비교할 수 있습니다.
 * 벡터 방식은 Advanced Vector eXtensions (AVX)를 사용합니다.
 
----
-
 ### Files
 * lab.c : 벡터 방식과 스칼라 방식의 행렬 연산 코드가 구현되어 있는 파일입니다.
 * Makefile : 빌드 명령어를 포함하는 파일입니다.
 
----
 
 ### Usage
 * 바이너리 파일 만들기 / 삭제하기

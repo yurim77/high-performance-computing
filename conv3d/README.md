@@ -3,7 +3,7 @@
 
 ### Description
 - 3D Convolution을 CUDA 프로그래밍과 AVX(Advanced Vector Extension)를 이용하여 구현한 프로젝트입니다.
-- CUDA, single thread AVX, multi thread AVX, multi thread AVX의 3D 컨볼루션 계산 속도를 비교할 수 있습니다.
+- CUDA, single thread AVX, multi thread AVX의 3D 컨볼루션 계산 속도를 비교할 수 있습니다.
 
 ### Files
 - CUDA.cu : CUDA 프로그래밍을 이용한 3D Convolution 구현
@@ -15,8 +15,6 @@
 ### Usage
 - 바이너리 파일 만들기 / 삭제하기
 ```shell
-# How to Build?
-# Make and Execute Test 1~5 Sample
 $ make test1
 $ make test2
 $ make test3

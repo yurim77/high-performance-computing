@@ -11,3 +11,4 @@ index|subject|hyperlink|
 |3|Pthread, parallelizing game of life|[parallelizing-game-of-life](https://github.com/yurim77/high-performance-computing/tree/main/parallelizing-game-of-life)|
 |4|**Pthread, multi-threaded TCP server and client**|[multi-threaded-server-client](https://github.com/yurim77/high-performance-computing/tree/main/multi-threaded-server-client)|
 |5|CUDA, optimize parallel reduction|[parallel-reduction](https://github.com/yurim77/high-performance-computing/tree/main/parallel-reduction)|
+|6|CUDA, tiled/non-tiled matrix multiplication|[tiled-matmul](https://github.com/yurim77/high-performance-computing/tree/main/tiled-matmul)|
